@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "518250795313",
+    "project_id": "ast-nearby-hospital-finder",
+    "storage_bucket": "ast-nearby-hospital-finder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518250795313:android:87a22065a70b3c1d22a010",
+        "android_client_info": {
+          "package_name": "com.example.paygo_fit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518250795313-mratn2rik3r8n4s83aq067975e54kkbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb0lO8BseFmjjjujdfW6b5uTO0r0eVQE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518250795313-4n7cpv5ju7c3b7qvjcui4qt9t03fk5us.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "518250795313-afa6tste2qau3qq2uj6v9avid5pbe12a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.evoltsoft"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518250795313:android:8708f7ffb9837eef22a010",
+        "android_client_info": {
+          "package_name": "com.example.pingolearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518250795313-mratn2rik3r8n4s83aq067975e54kkbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb0lO8BseFmjjjujdfW6b5uTO0r0eVQE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518250795313-4n7cpv5ju7c3b7qvjcui4qt9t03fk5us.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "518250795313-afa6tste2qau3qq2uj6v9avid5pbe12a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.evoltsoft"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
